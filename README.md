@@ -27,5 +27,5 @@ Conexiunile electrice dintre componente au fost proiectate astfel încât să re
 ## Design software
 Pentru realizarea și implementarea proiectului, am utilizat următoarele medii de dezvoltare:  
 - **Arduino IDE** pentru scrierea și implementarea codului sursă.  
-- **Easy EDA** pentru proiectarea schemei electrice.  
+- **Easy EDA** pentru proiectarea schemei electrice si a placii PCB.  
 - **Draw.io Online** pentru crearea schemei bloc.
