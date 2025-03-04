@@ -23,6 +23,9 @@ O reprezentare detaliată a componentelor și conexiunilor principale:
 Conexiunile electrice dintre componente au fost proiectate astfel încât să respecte cerințele funcționale: 
 ![Schema electrica](Schema_electrica.png)
 
+## Schema PCB
+Proiectarea plăcii PCB, incluzând traseele electrice și poziționarea componentelor:  
+![Schema PCB](Schema_PCB.jpg)
 
 ## Design software
 Pentru realizarea și implementarea proiectului, am utilizat următoarele medii de dezvoltare:  
