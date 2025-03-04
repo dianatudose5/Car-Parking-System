@@ -21,7 +21,7 @@ O reprezentare detaliată a componentelor și conexiunilor principale:
 
 ## Schema electrică
 Conexiunile electrice dintre componente au fost proiectate astfel încât să respecte cerințele funcționale: 
-![Schema electrica](Schema_electrica.jpg)
+![Schema electrica](Schema_electrica.png)
 
 
 ## Design software
