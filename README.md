@@ -8,7 +8,7 @@ Sistemul are o capacitate maximă de 4 mașini, iar numărul locurilor disponibi
 În plus, sistemul este echipat cu un senzor de fum care detectează prezența gazului sau fumului, declanșând un mod de urgență. În acest mod, barierele se ridică automat pentru a permite evacuarea rapidă, iar ecranul LCD afișează un mesaj de avertizare pentru părăsirea parcării.
 
 ## Componente utilizate
-- **Raspberry Pi Pico
+- **Raspberry Pi Pico**
 - **Display LCD 16x2**, conectat printr-un driver I2C pentru reducerea numărului de conexiuni necesare.  
 - **Servomotor 180° cu limitator**, utilizat pentru controlul barierei.  
 - **2 senzori obstacole IR**.  
