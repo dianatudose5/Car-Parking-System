@@ -15,11 +15,14 @@ Sistemul are o capacitate maximă de 4 mașini, iar numărul locurilor disponibi
 - **Modul IR receptor cu telecomandă**.  
 - **Senzor de gaz și buzzer**, pentru a simula o alarmă în caz de incendiu.
 
-  ## Schema bloc
+## Schema bloc
 O reprezentare detaliată a componentelor și conexiunilor principale: 
+![Schema bloc](Schema_bloc.png)
 
 ## Schema electrică
 Conexiunile electrice dintre componente au fost proiectate astfel încât să respecte cerințele funcționale: 
+![Schema electrica](Schema_electrica.jpg)
+
 
 ## Design software
 Pentru realizarea și implementarea proiectului, am utilizat următoarele medii de dezvoltare:  
