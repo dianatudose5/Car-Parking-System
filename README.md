@@ -25,7 +25,7 @@ Conexiunile electrice dintre componente au fost proiectate astfel încât să re
 
 ## Schema PCB
 Proiectarea plăcii PCB, incluzând traseele electrice și poziționarea componentelor:  
-![Schema PCB](Schema_PCB.jpg)
+![Schema PCB](Schema_PCB.png)
 
 ## Design software
 Pentru realizarea și implementarea proiectului, am utilizat următoarele medii de dezvoltare:  
